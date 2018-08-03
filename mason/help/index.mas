@@ -1,11 +1,11 @@
 
-<& /page/page_title.mas, title=>"MusaBase Help" &>
+<& /page/page_title.mas, title=>"Wheatbase Help" &>
 
-<div>MusaBase is a breeding database implementing tools to manage data and next-generation breeding protocols based on high density marker data for banana species used as major food sources in Africa.</div>
+<div>Wheatbase is a breeding database implementing tools to manage data and next-generation breeding protocols based on high density marker data.</div>
 
 <h3>Manual</h3>
 
-<div>The MusaBase manual is available as a <a href="https://docs.google.com/document/d/1ZJjxsarGqGTv4HgJTt-EodOoaEmJ3lgSeV0Qq_YKJaY">Google Doc</a>. It was written for CassavaBase but MusaBase is based on CassavaBase, so the manual applies to MusaBase as well.</div>
+<div>The Wheatbase manual is available as a <a href="https://docs.google.com/document/d/1ZJjxsarGqGTv4HgJTt-EodOoaEmJ3lgSeV0Qq_YKJaY">Google Doc</a>. It was written for CassavaBase but Wheatbase is based on CassavaBase, so the manual applies to Wheatbase as well.</div>
 
 <h3>FAQ</h3>
 

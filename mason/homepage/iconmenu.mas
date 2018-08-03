@@ -183,7 +183,7 @@ pages.
     <li class="GenomesSequences"><a href="/genomes"><img src="/img/soliconmenu/GenomesSequences.png" alt="GenomesSequences" alt="Genomes and Sequences" title="Genomes and Sequences" /></a>
       <ul>
             <div class="submenu GenomesSequencesSubMenu">
-                <li><a href="/organism/5/view/">Musa Information</a></li>
+                <li><a href="/organism/5/view/">Wheat Information</a></li>
 
 		<li><a href=""></a>&nbsp;</li>
 
