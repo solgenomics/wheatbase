@@ -1,0 +1,9 @@
+<li class="dropdown"><a class="menu_click_dropdown dropdown-toggle" data-toggle="dropdown" href="/breeders/home">Phenotyping</a>
+
+  <ul class="dropdown-menu">
+    <li><a href="/fieldbook">Field Book App</a></li>
+    <li><a href="/breeders/phenotyping/">Phenotyping</a></li>
+    <li><a href="/barcode">Barcodes</a></li>
+    <li><a href="/breeders/download">Download</a></li>
+  </ul>
+</li>
